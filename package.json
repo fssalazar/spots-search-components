@@ -1,0 +1,24 @@
+{
+  "name": "spots-search-components",
+  "version": "1.0.0",
+  "description": "Search components for a react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fssalazar/spots-search-components.git"
+  },
+  "keywords": [
+    "react",
+    "search",
+    "components"
+  ],
+  "author": "Felipe Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fssalazar/spots-search-components/issues"
+  },
+  "homepage": "https://github.com/fssalazar/spots-search-components#readme"
+}
